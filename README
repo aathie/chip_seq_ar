@@ -1,0 +1,7 @@
+#The files contained the results of the ChIP-seq AR analysis.
+#Peaks
+*.xls
+#Annotated Peaks
+*.tsv
+#Gene list
+ChIPseq_AR_bound_genes.xls
